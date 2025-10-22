@@ -48,3 +48,60 @@ msgstr "本地配置文件"
 
 msgid "Path to the local.conf"
 msgstr "配置文件将映射到运行配置目录下的 local.conf，默认为空"
+
+msgid "Networks"
+msgstr "网络"
+
+msgid "Network ID"
+msgstr "网络 ID"
+
+msgid "Network ID cannot be empty."
+msgstr "网络 ID不能为空"
+
+msgid "Allow Managed"
+msgstr "允许管理"
+
+msgid "Allow Global"
+msgstr "允许全局"
+
+msgid "Allow Default"
+msgstr "允许默认"
+
+msgid "Allow DNS"
+msgstr "允许 DNS"
+
+msgid "ZeroTier Interface Information"
+msgstr "ZeroTier 接口信息"
+
+msgid "Detailed view of all ZeroTier interfaces currently active on this device."
+msgstr "当前设备上所有 ZeroTier 接口的详细视图。"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "Interface Name"
+msgstr "接口名称"
+
+msgid "MAC Address"
+msgstr "MAC 地址"
+
+msgid "IPv4 Address"
+msgstr "IPv4 地址"
+
+msgid "IPv6 Address"
+msgstr "IPv6 地址"
+
+msgid "MTU"
+msgstr "MTU"
+
+msgid "Total Download"
+msgstr "总下载量"
+
+msgid "Total Upload"
+msgstr "总上传量"
+
+msgid "No ZeroTier interfaces found."
+msgstr "未找到 ZeroTier 接口。"
+
+msgid "Details"
+msgstr "详情"

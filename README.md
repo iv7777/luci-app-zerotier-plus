@@ -1,4 +1,4 @@
-# luci-app-zerotier
+# luci-app-zerotier-plus
 
 LuCI for ZeroTier / ZeroTier 的 LuCI 管理界面
 
@@ -11,6 +11,10 @@ LuCI for ZeroTier / ZeroTier 的 LuCI 管理界面
 因原项目[不支持且不考虑支持 fw4](https://github.com/coolsnowwolf/luci/pull/230)，所以克隆出来
 
 ## Changelog / 更新日志
+
+### v2.3
+
+- Now works with newer version of zerotier with new configuration format
 
 ### v2.2
 
